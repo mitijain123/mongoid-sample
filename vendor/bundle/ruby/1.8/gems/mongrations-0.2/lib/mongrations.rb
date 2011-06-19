@@ -1,0 +1,6 @@
+require 'mongo_mapper'
+require 'mongrations/exceptions'
+require 'mongrations/mongration'
+require 'mongrations/migration_proxy'
+require 'mongrations/migrator'
+require 'mongrations/schema_migration'

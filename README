@@ -1,0 +1,16 @@
+== Welcome to Mongo Id Sample Application
+
+This is a Rails application built using mongoid gem, which replaces ActiveRecord MongoId and uses Mongodb as database.
+
+
+== Getting Started
+Note: You should install mongodb database, before using this application.
+
+1. Clone the application:
+       * Git Clone: https://github.com/mitijain123/mongoid-sample
+
+2. bundle install
+
+3. rails s
+
+4. Application is up and running at http://localhost:3000

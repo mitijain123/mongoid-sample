@@ -1,0 +1,10 @@
+class Zippy
+  def initialize
+    task :a
+    task :b
+    file "x"
+    cp "x", "y"
+  end
+end
+
+Zippy.new
