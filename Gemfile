@@ -8,7 +8,7 @@ gem 'rails', '3.1.0.rc2'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #gem 'sqlite3-ruby', :require => 'sqlite3'
-gem "mongoid", :path => "/Users/miteshjain/Sites/mongoid/mongoid"
+gem "mongoid"
 gem "bson_ext", "~> 1.3"
 
 # Use unicorn as the web server
