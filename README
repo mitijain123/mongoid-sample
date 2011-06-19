@@ -7,7 +7,7 @@ This is a Rails application built using mongoid gem, which replaces ActiveRecord
 Note: You should install mongodb database, before using this application.
 
 1. Clone the application:
-       * Git Clone: https://github.com/mitijain123/mongoid-sample
+       * git clone https://github.com/mitijain123/mongoid-sample.git
 
 2. bundle install
 
