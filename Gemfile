@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.1.0.rc2'
+gem 'rails', '3.1.1'
 
 
 
@@ -8,8 +8,9 @@ gem 'rails', '3.1.0.rc2'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #gem 'sqlite3-ruby', :require => 'sqlite3'
-gem "mongoid", :path => "/Users/miteshjain/Sites/mongoid/mongoid"
-gem "bson_ext", "~> 1.3"
+gem "mongoid"
+gem "bson_ext", "~> 1.4"
+gem "mongoid_dynamic_finder"
 
 # Use unicorn as the web server
 # gem 'unicorn'
